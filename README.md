@@ -206,6 +206,6 @@ order by Order_Priority desc
 ----ANS: Based on my data, YES. Because, express air being the most expensive ship mode was used least in all the orde priorities of the customers except 'CRITICAL' as shown in the table by the Total_Shipping_cost of each order_priority scenario.
 ```
 
-### FINDINGS AND INSIGHTS:
+
 
 
