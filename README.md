@@ -6,7 +6,7 @@
 
 This analysis project is aimed to generate insight into the sales performance of the Kultra Mega Stores in these trade years (2009-2012). By analyzing various parameters in the data received, we seek to provide some business intelligence to guide product improvement, marketing strategy, and share key insights and findings.
 
-### Data  Source
+### Data Source
 The primary sources of data used for this work the “KMS SQL Case Study.csv” and Order_Status.csv” excel files shared to my Canvas LMS by DSA Incubator hub containing data from 2009-2012.
 
 ### Data Cleaning and Preparation
@@ -16,9 +16,9 @@ In this phase, I performed the following processes;
 - Reformatting column type in data set
 - Joining the two tables
 
-ANALYSIS TOOLS
-Microsoft Excel 2019 for data inspection
-SQL Server for querying and Analysis
+### ANALYSIS TOOLS
+ 1. Microsoft Excel 2019 [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office) for data inspection.
+ 2. SQL Server [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for querying and Analysis
 
 ### Exploratory Data Analysis
 By employing the use of SQL queries, I was able to answer the following questions:
@@ -34,7 +34,7 @@ By employing the use of SQL queries, I was able to answer the following question
 10. Which customer returned items and what segment do they belong to?
 11. If the delivery truck is the most economical but the slowest, and express air is the faster and the most expensive one, do you think the shipping company appropriately spent shipping cost based on the order priority? Explain your answer.
 
-### DATA ANALYSIS
+### DATA ANALYSIS AND FINDINGS
 Below are some DAX Expressions used during my analysis:
 ``` sql
 CREATE DATABASE DSA_PROJECT
