@@ -1,6 +1,7 @@
 # My-DSA-Data-Analysis-Project-Documentation-2
 
 ## MY DSA DATA ANALYSIS PROJECT WORK SUMMARY  USING SQL SERVER
+### KULTRA MEGA STORES INVENTORY
 
 ### Project Overview
 
@@ -206,7 +207,8 @@ order by Order_Priority desc
 ----ANS: Based on my data, YES. Because, express air being the most expensive ship mode was used least in all the orde priorities of the customers except 'CRITICAL' as shown in the table by the Total_Shipping_cost of each order_priority scenario.
 ```
 
-To see full analysis os SQL SERVER [Uploading SQLQuery project.sql…]()
+
+
 
 
 
